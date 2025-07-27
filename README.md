@@ -1,3 +1,5 @@
+ <p align="center"> <img src="images (2).png" alt="A photo of a sample project" width="50%"> </p>
+
 # 100 pandas puzzles
 
 ### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
